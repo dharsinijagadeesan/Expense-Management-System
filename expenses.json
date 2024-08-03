@@ -1,0 +1,27 @@
+[
+  {
+    "month": "February",
+    "expenseType": "Groceries",
+    "expenseAmount": 300
+  },
+  {
+    "month": "February",
+    "expenseType": "Transportation",
+    "expenseAmount": 500
+  },
+  {
+    "month": "June",
+    "expenseType": "Rent",
+    "expenseAmount": 100
+  },
+  {
+    "month": "January",
+    "expenseType": "Groceries",
+    "expenseAmount": 100
+  },
+  {
+    "month": "March",
+    "expenseType": "Rent",
+    "expenseAmount": 100
+  }
+]

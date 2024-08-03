@@ -1,0 +1,14 @@
+[
+  {
+    "month": "January",
+    "source": "Salary",
+    "amount": 1000,
+    "investments": "401(k)"
+  },
+  {
+    "month": "June",
+    "source": "Rental Income",
+    "amount": 2500,
+    "investments": "Real Estate"
+  }
+]

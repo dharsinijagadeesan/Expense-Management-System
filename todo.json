@@ -1,0 +1,30 @@
+[
+  {
+    "month": "February",
+    "expenseType": "Hospital bill",
+    "expenseAmount": 200,
+    "id": "_wujiscp2t",
+    "selected": false
+  },
+  {
+    "month": "February",
+    "expenseType": "Hospital bill",
+    "expenseAmount": 300,
+    "id": "_s1w61bkkf",
+    "selected": false
+  },
+  {
+    "month": "April",
+    "expenseType": "Recharge bill",
+    "expenseAmount": 100,
+    "id": "_s6i0ou6tf",
+    "selected": false
+  },
+  {
+    "month": "January",
+    "expenseType": "current bill",
+    "expenseAmount": 200,
+    "id": "_kaamtw05d",
+    "selected": false
+  }
+]
